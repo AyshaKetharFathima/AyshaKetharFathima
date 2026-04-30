@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aysha 👋
 
-<!--
-**AyshaKetharFathima/AyshaKetharFathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+💻 Interested in Machine Learning & Data Analytics  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, Java
+- SQL
+- HTML, CSS, JavaScript (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- IPL Match Winner Prediction (Machine Learning)
+- Cancer Prediction Model
+- Civic Issue Detection System
+- Food Waste Redistribution System
+- Mood Based Book Recommendation 
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/ayshaketharfathima/
