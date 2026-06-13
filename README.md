@@ -5,6 +5,8 @@
 - Python, Java
 - SQL
 - HTML, CSS, JavaScript (Basics)
+- ML,Data Science
+- AI,DL
 ## 🚀 Projects
 - Civic Issue Detection System
 - Food Waste Redistribution System
